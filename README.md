@@ -1,7 +1,7 @@
 # Article link:
 
-[Perfect Corp Article]:
-https://www.businesswire.com/news/home/20251219606970/en/Perfect-Corp.-Unveils-Next-Generation-AI-Beauty-Agent-and-API-Innovations-Transforming-Beauty-Skincare-and-Retail-at-CES-2026?utm_source=chatgpt.com
+Article link:
+[Perfect Corp. Unveils Next-Generation AI Beauty Agent and API Innovations at CES 2026](https://www.businesswire.com/news/home/20251219606970/en/Perfect-Corp.-Unveils-Next-Generation-AI-Beauty-Agent-and-API-Innovations-Transforming-Beauty-Skincare-and-Retail-at-CES-2026)
 
 
 # What I found interesting:
