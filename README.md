@@ -10,3 +10,11 @@ I found this article interesting because it shows how software development is be
 # What stood out to me:
 
 What stood out to me most is how software engineering plays a big role in creating personalized user experiences. The article highlights how AI and data-driven systems are now more than ever becoming core parts of modern retail platforms rather than optional features. This shows how software developers today are not just building backend systems, but also shaping how users interact with products through AI, computer vision, and cloud based services.
+
+### Comment from Richmond Agyenim-Boateng:
+
+Your article about AI in beauty and retail is fascinating! I can see clear parallels with my article about AI pair programming in software development. Both show how AI is becoming deeply integrated into different industries.
+
+What stood out to me is your point about software developers now shaping user experiences through AI. In pair programming, AI is also reshaping how developers work and learn. It seems AI is transforming both the creation process (development) and the end-user experience (retail).
+
+One question: How do you think these AI beauty tools handle diverse skin tones and types accurately? Is there ongoing work to reduce bias in these systems?
